@@ -1,0 +1,1822 @@
+[Info  - 22:54:01] Initialising intelephense 1.12.6
+[Info  - 22:54:01] Reading state from /var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/bmewburn.vscode-intelephense-client/d50c49c.
+[Info  - 22:54:02] Initialised in 1221 ms
+[Info  - 22:54:02] Searching file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.6/node_modules/intelephense/lib/stub for files to index.
+[Info  - 22:54:02] Searching file:///var/www/html/InventoryProject for files to index.
+[Warn  - 22:54:02] file:///var/www/html/InventoryProject/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 22:54:02] Indexing started.
+[Info  - 22:54:03] Indexing ended. 265 files indexed in 0s.
+[Info  - 22:54:03] Writing state to /var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/bmewburn.vscode-intelephense-client/d50c49c.
+[Info  - 22:54:04] Wrote state in 0.9s.
+[Info  - 22:54:05] Searching file:///var/www/html/InventoryProject/logs/20240911T225357/window1/exthost/vscode.json-language-features for files to index.
+[Info  - 22:54:27] Indexing started.
+[Info  - 22:54:27] Indexing ended. 1 files indexed in 0s.
+[Warn  - 22:54:30] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 22:54:30] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 22:54:44] Indexing started.
+[Info  - 22:54:44] Indexing ended. 12 files indexed in 0s.
+[Info  - 22:54:53] Indexing started.
+[Info  - 22:54:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:55:15] Indexing started.
+[Info  - 22:55:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:55:19] Indexing started.
+[Info  - 22:55:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:56:31] Indexing started.
+[Info  - 22:56:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:56:54] Indexing started.
+[Info  - 22:56:54] Indexing ended. 1 files indexed in 0s.
+[Warn  - 22:57:23] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/vite.config.js.timestamp-1726075643335-1827d47d9bf8a.mjs'
+[Info  - 22:57:27] Indexing started.
+[Info  - 22:57:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:57:43] Indexing started.
+[Info  - 22:57:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:58:00] Indexing started.
+[Info  - 22:58:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:58:04] Indexing started.
+[Info  - 22:58:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:58:12] Indexing started.
+[Info  - 22:58:12] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:58:26] Indexing started.
+[Info  - 22:58:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:58:38] Indexing started.
+[Info  - 22:58:38] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:58:49] Indexing started.
+[Info  - 22:58:49] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:58:53] Indexing started.
+[Info  - 22:58:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:58:58] Indexing started.
+[Info  - 22:58:59] Indexing ended. 2 files indexed in 0s.
+[Warn  - 22:59:04] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 22:59:04] Indexing started.
+[Info  - 22:59:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:12] Indexing started.
+[Info  - 22:59:12] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:13] Indexing started.
+[Info  - 22:59:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:59:21] Indexing started.
+[Info  - 22:59:21] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:22] Indexing started.
+[Info  - 22:59:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:24] Indexing started.
+[Info  - 22:59:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:27] Indexing started.
+[Info  - 22:59:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:36] Indexing started.
+[Info  - 22:59:36] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:40] Indexing started.
+[Info  - 22:59:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 22:59:43] Indexing started.
+[Info  - 22:59:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 22:59:46] Indexing started.
+[Info  - 22:59:46] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:12] Indexing started.
+[Info  - 23:00:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:16] Indexing started.
+[Info  - 23:00:16] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:23] Indexing started.
+[Info  - 23:00:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:00:47] Searching file:///var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652 for files to index.
+[Info  - 23:00:47] Searching file:///var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file for files to index.
+[Warn  - 23:00:47] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/6787b56e'
+[Info  - 23:00:47] Indexing started.
+[Info  - 23:00:47] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:51] Indexing started.
+[Info  - 23:00:51] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:54] Indexing started.
+[Info  - 23:00:54] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:00:57] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 23:00:57] Indexing started.
+[Info  - 23:00:58] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:00:59] Indexing started.
+[Info  - 23:00:59] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:14] Indexing started.
+[Info  - 23:01:14] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:01:15] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 23:01:15] Indexing started.
+[Info  - 23:01:16] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:18] Indexing started.
+[Info  - 23:01:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:25] Indexing started.
+[Info  - 23:01:25] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:27] Indexing started.
+[Info  - 23:01:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:29] Indexing started.
+[Info  - 23:01:30] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:35] Indexing started.
+[Info  - 23:01:36] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:39] Indexing started.
+[Info  - 23:01:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:01:41] Indexing started.
+[Info  - 23:01:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:48] Indexing started.
+[Info  - 23:01:48] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:01:56] Indexing started.
+[Info  - 23:01:56] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:04] Indexing started.
+[Info  - 23:02:04] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:07] Indexing started.
+[Info  - 23:02:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:11] Indexing started.
+[Info  - 23:02:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:30] Indexing started.
+[Info  - 23:02:31] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:41] Indexing started.
+[Info  - 23:02:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:44] Indexing started.
+[Info  - 23:02:44] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:02:53] Indexing started.
+[Info  - 23:02:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:03:13] Searching file:///var/www/html/InventoryProject/User/History/686e794e for files to index.
+[Info  - 23:03:13] Indexing started.
+[Info  - 23:03:13] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:03:19] Indexing started.
+[Info  - 23:03:19] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:03:26] Indexing started.
+[Info  - 23:03:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:03:37] Indexing started.
+[Info  - 23:03:37] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:03:44] Indexing started.
+[Info  - 23:03:44] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:03:57] Indexing started.
+[Info  - 23:03:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:04:02] Indexing started.
+[Info  - 23:04:02] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:04:04] Indexing started.
+[Info  - 23:04:04] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:04:27] Indexing started.
+[Info  - 23:04:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:04:33] Indexing started.
+[Info  - 23:04:33] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:04:39] Indexing started.
+[Info  - 23:04:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:04:42] Indexing started.
+[Info  - 23:04:42] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:05:37] Indexing started.
+[Info  - 23:05:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:05:38] Indexing started.
+[Info  - 23:05:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:05:48] Indexing started.
+[Info  - 23:05:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:05:48] Indexing started.
+[Info  - 23:05:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:06:33] Indexing started.
+[Info  - 23:06:33] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:06:36] Indexing started.
+[Info  - 23:06:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:06:47] Searching file:///var/www/html/InventoryProject/User/History/-37c5682d for files to index.
+[Info  - 23:06:47] Indexing started.
+[Info  - 23:06:47] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:07:24] Indexing started.
+[Info  - 23:07:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:07:28] Indexing started.
+[Info  - 23:07:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:07:31] Indexing started.
+[Info  - 23:07:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:07:34] Indexing started.
+[Info  - 23:07:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:07:48] Indexing started.
+[Info  - 23:07:49] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:08:21] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.8kb7pd'
+[Info  - 23:08:21] Indexing started.
+[Info  - 23:08:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:09:16] Indexing started.
+[Info  - 23:09:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:09:16] Indexing started.
+[Info  - 23:09:17] Indexing ended. 1 files indexed in 0s.
+[Warn  - 23:09:29] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.jvGktS'
+[Info  - 23:09:29] Indexing started.
+[Info  - 23:09:29] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:09:30] Indexing started.
+[Info  - 23:09:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:09:31] Indexing started.
+[Info  - 23:09:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:09:34] Indexing started.
+[Info  - 23:09:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:11:18] Indexing started.
+[Info  - 23:11:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:11:19] Indexing started.
+[Info  - 23:11:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:11:32] Indexing started.
+[Info  - 23:11:32] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:12:22] Indexing started.
+[Info  - 23:12:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:14:28] Indexing started.
+[Info  - 23:14:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:14:30] Indexing started.
+[Info  - 23:14:30] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:14:30] Indexing started.
+[Info  - 23:14:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:14:31] Indexing started.
+[Info  - 23:14:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:15:22] Indexing started.
+[Info  - 23:15:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:15:23] Indexing started.
+[Info  - 23:15:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:15:27] Indexing started.
+[Info  - 23:15:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:15:28] Indexing started.
+[Info  - 23:15:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:16:07] Indexing started.
+[Info  - 23:16:08] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:16:09] Indexing started.
+[Info  - 23:16:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:16:10] Indexing started.
+[Info  - 23:16:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:16:15] Searching file:///var/www/html/InventoryProject/User/History/33f113b for files to index.
+[Info  - 23:16:15] Indexing started.
+[Info  - 23:16:15] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:16:15] Indexing started.
+[Info  - 23:16:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:17:25] Indexing started.
+[Info  - 23:17:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:17:32] Indexing started.
+[Info  - 23:17:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:17:36] Indexing started.
+[Info  - 23:17:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:17:42] Searching file:///var/www/html/InventoryProject/User/History/-6a8a9f75 for files to index.
+[Info  - 23:17:42] Indexing started.
+[Info  - 23:17:42] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:17:58] Indexing started.
+[Info  - 23:17:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:18:07] Indexing started.
+[Info  - 23:18:08] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:18:50] Indexing started.
+[Info  - 23:18:50] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:18:51] Indexing started.
+[Info  - 23:18:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:19:31] Indexing started.
+[Info  - 23:19:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:19:55] Indexing started.
+[Info  - 23:19:55] Indexing ended. 1 files indexed in 0s.
+[Warn  - 23:19:59] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 23:19:59] Indexing started.
+[Info  - 23:19:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:20:02] Indexing started.
+[Info  - 23:20:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:20:03] Indexing started.
+[Info  - 23:20:03] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:20:28] Indexing started.
+[Info  - 23:20:28] Indexing ended. 5 files indexed in 0s.
+[Info  - 23:20:40] Searching file:///var/www/html/InventoryProject/User/History/446e5e50 for files to index.
+[Info  - 23:20:40] Indexing started.
+[Info  - 23:20:40] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:20:51] Searching file:///var/www/html/InventoryProject/User/History/3f9c26ca for files to index.
+[Info  - 23:20:51] Indexing started.
+[Info  - 23:20:51] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:21:01] Searching file:///var/www/html/InventoryProject/User/History/-5f8c6c9b for files to index.
+[Info  - 23:21:01] Indexing started.
+[Info  - 23:21:01] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:21:02] Indexing started.
+[Info  - 23:21:02] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:21:11] Indexing started.
+[Info  - 23:21:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:21:29] Indexing started.
+[Info  - 23:21:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:22:00] Indexing started.
+[Info  - 23:22:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:22:02] Indexing started.
+[Info  - 23:22:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:22:28] Indexing started.
+[Info  - 23:22:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:22:43] Indexing started.
+[Info  - 23:22:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:22:47] Indexing started.
+[Info  - 23:22:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:23:06] Indexing started.
+[Info  - 23:23:06] Indexing ended. 4 files indexed in 0s.
+[Info  - 23:23:14] Indexing started.
+[Info  - 23:23:14] Indexing ended. 6 files indexed in 0s.
+[Info  - 23:23:34] Indexing started.
+[Info  - 23:23:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:23:34] Indexing started.
+[Info  - 23:23:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:23:56] Searching file:///var/www/html/InventoryProject/resources/views/components/user for files to index.
+[Info  - 23:24:03] Indexing started.
+[Info  - 23:24:03] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:24:16] Indexing started.
+[Info  - 23:24:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:24:17] Searching file:///var/www/html/InventoryProject/User/History/-6e148642 for files to index.
+[Info  - 23:24:17] Indexing started.
+[Info  - 23:24:17] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:24:31] Searching file:///var/www/html/InventoryProject/User/History/-6ee87dd9 for files to index.
+[Info  - 23:24:31] Indexing started.
+[Info  - 23:24:32] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:24:37] Indexing started.
+[Info  - 23:24:37] Indexing ended. 5 files indexed in 0s.
+[Info  - 23:24:38] Indexing started.
+[Info  - 23:24:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:24:58] Indexing started.
+[Info  - 23:24:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:25:11] Indexing started.
+[Info  - 23:25:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:25:15] Indexing started.
+[Info  - 23:25:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:25:20] Indexing started.
+[Info  - 23:25:20] Indexing ended. 4 files indexed in 0s.
+[Info  - 23:25:26] Indexing started.
+[Info  - 23:25:26] Indexing ended. 4 files indexed in 0s.
+[Info  - 23:25:42] Indexing started.
+[Info  - 23:25:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:25:43] Indexing started.
+[Info  - 23:25:44] Indexing ended. 160 files indexed in 0s.
+[Warn  - 23:25:56] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/6a387c96'
+[Info  - 23:25:57] Searching file:///var/www/html/InventoryProject/User/History/-42450016 for files to index.
+[Info  - 23:25:57] Indexing started.
+[Info  - 23:25:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:25:59] Indexing started.
+[Info  - 23:26:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:26:00] Indexing started.
+[Info  - 23:26:00] Indexing ended. 149 files indexed in 0s.
+[Info  - 23:26:01] Indexing started.
+[Info  - 23:26:01] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:26:07] Searching file:///var/www/html/InventoryProject/User/History/5ceb5d99 for files to index.
+[Info  - 23:26:07] Indexing started.
+[Info  - 23:26:07] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:26:13] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 23:26:13] Searching file:///var/www/html/InventoryProject/User/History/3855bfe8 for files to index.
+[Info  - 23:26:13] Indexing started.
+[Info  - 23:26:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:26:15] Indexing started.
+[Info  - 23:26:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:26:16] Indexing started.
+[Info  - 23:26:16] Indexing ended. 212 files indexed in 0s.
+[Warn  - 23:27:04] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/-6e192cef'
+[Info  - 23:27:04] Indexing started.
+[Info  - 23:27:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:27:11] Indexing started.
+[Info  - 23:27:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:27:15] Indexing started.
+[Info  - 23:27:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:27:26] Indexing started.
+[Info  - 23:27:27] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:27:38] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.7LdJHq'
+[Info  - 23:27:44] Indexing started.
+[Info  - 23:27:44] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:27:45] Indexing started.
+[Info  - 23:27:45] Indexing ended. 1 files indexed in 0s.
+[Warn  - 23:27:54] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 23:27:54] Indexing started.
+[Info  - 23:27:54] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:27:55] Indexing started.
+[Info  - 23:27:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:27:55] Indexing started.
+[Info  - 23:27:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:27:56] Indexing started.
+[Info  - 23:27:56] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:28:02] Indexing started.
+[Info  - 23:28:02] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:28:09] Indexing started.
+[Info  - 23:28:09] Indexing ended. 1 files indexed in 0s.
+[Warn  - 23:28:14] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.rVtXS3'
+[Info  - 23:28:14] Indexing started.
+[Info  - 23:28:15] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:28:24] Indexing started.
+[Info  - 23:28:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:28:25] Indexing started.
+[Info  - 23:28:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:19] Indexing started.
+[Info  - 23:30:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:23] Indexing started.
+[Info  - 23:30:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:27] Indexing started.
+[Info  - 23:30:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:30] Indexing started.
+[Info  - 23:30:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:34] Indexing started.
+[Info  - 23:30:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:40] Indexing started.
+[Info  - 23:30:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:41] Indexing started.
+[Info  - 23:30:41] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:44] Indexing started.
+[Info  - 23:30:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:47] Indexing started.
+[Info  - 23:30:47] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:49] Indexing started.
+[Info  - 23:30:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:30:52] Indexing started.
+[Info  - 23:30:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:03] Indexing started.
+[Info  - 23:31:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:10] Indexing started.
+[Info  - 23:31:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:11] Indexing started.
+[Info  - 23:31:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:12] Indexing started.
+[Info  - 23:31:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:13] Indexing started.
+[Info  - 23:31:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:15] Indexing started.
+[Info  - 23:31:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:16] Indexing started.
+[Info  - 23:31:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:17] Indexing started.
+[Info  - 23:31:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:18] Indexing started.
+[Info  - 23:31:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:22] Indexing started.
+[Info  - 23:31:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:31:34] Indexing started.
+[Info  - 23:31:34] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:31:34] Indexing started.
+[Info  - 23:31:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:31:39] Indexing started.
+[Info  - 23:31:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:32:23] Indexing started.
+[Info  - 23:32:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:34:29] Searching file:///var/www/html/InventoryProject/User/History/-3547c61c for files to index.
+[Info  - 23:34:29] Indexing started.
+[Info  - 23:34:29] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:34:31] Indexing started.
+[Info  - 23:34:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:34:32] Indexing started.
+[Info  - 23:34:33] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:34:33] Indexing started.
+[Info  - 23:34:34] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:35:31] Indexing started.
+[Info  - 23:35:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:35:48] Indexing started.
+[Info  - 23:35:48] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:36:54] Indexing started.
+[Info  - 23:36:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:36:54] Indexing started.
+[Info  - 23:36:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:37:47] Indexing started.
+[Info  - 23:37:47] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:37:48] Indexing started.
+[Info  - 23:37:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:37:49] Indexing started.
+[Info  - 23:37:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:37:50] Indexing started.
+[Info  - 23:37:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:39:28] Indexing started.
+[Info  - 23:39:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:41:03] Indexing started.
+[Info  - 23:41:03] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:42:26] Indexing started.
+[Info  - 23:42:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:43:08] Indexing started.
+[Info  - 23:43:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:43:09] Indexing started.
+[Info  - 23:43:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:43:09] Indexing started.
+[Info  - 23:43:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:43:11] Indexing started.
+[Info  - 23:43:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:43:30] Indexing started.
+[Info  - 23:43:30] Indexing ended. 1 files indexed in 0s.
+[Warn  - 23:44:47] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 23:44:47] Indexing started.
+[Info  - 23:44:47] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:45:48] Searching file:///var/www/html/InventoryProject/User/History/-30bfdac9 for files to index.
+[Info  - 23:45:48] Indexing started.
+[Info  - 23:45:49] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:45:50] Indexing started.
+[Info  - 23:45:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:46:09] Indexing started.
+[Info  - 23:46:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:46:49] Indexing started.
+[Info  - 23:46:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:46:50] Indexing started.
+[Info  - 23:46:50] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:47:15] Indexing started.
+[Info  - 23:47:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:47:16] Indexing started.
+[Info  - 23:47:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:47:24] Indexing started.
+[Info  - 23:47:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:47:35] Indexing started.
+[Info  - 23:47:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:47:36] Indexing started.
+[Info  - 23:47:37] Indexing ended. 2 files indexed in 0s.
+[Warn  - 23:47:48] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.WKqvvo'
+[Info  - 23:47:48] Indexing started.
+[Info  - 23:47:49] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:49:21] Indexing started.
+[Info  - 23:49:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:49:22] Indexing started.
+[Info  - 23:49:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:50:08] Indexing started.
+[Info  - 23:50:08] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:50:10] Indexing started.
+[Info  - 23:50:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:50:11] Indexing started.
+[Info  - 23:50:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:50:52] Indexing started.
+[Info  - 23:50:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:50:57] Indexing started.
+[Info  - 23:50:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:51:10] Indexing started.
+[Info  - 23:51:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:51:13] Indexing started.
+[Info  - 23:51:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:43] Indexing started.
+[Info  - 23:52:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:48] Indexing started.
+[Info  - 23:52:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:50] Indexing started.
+[Info  - 23:52:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:54] Indexing started.
+[Info  - 23:52:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:58] Indexing started.
+[Info  - 23:52:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:52:59] Indexing started.
+[Info  - 23:52:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:53:01] Indexing started.
+[Info  - 23:53:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:53:04] Indexing started.
+[Info  - 23:53:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:53:30] Indexing started.
+[Info  - 23:53:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:53:37] Indexing started.
+[Info  - 23:53:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:11] Indexing started.
+[Info  - 23:54:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:22] Indexing started.
+[Info  - 23:54:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:29] Indexing started.
+[Info  - 23:54:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:43] Indexing started.
+[Info  - 23:54:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:48] Indexing started.
+[Info  - 23:54:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:55] Indexing started.
+[Info  - 23:54:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:54:57] Indexing started.
+[Info  - 23:54:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:56:35] Searching file:///var/www/html/InventoryProject/User/History/4383da44 for files to index.
+[Info  - 23:56:35] Indexing started.
+[Info  - 23:56:35] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:57:36] Indexing started.
+[Info  - 23:57:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:37] Indexing started.
+[Info  - 23:57:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:39] Indexing started.
+[Info  - 23:57:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:40] Indexing started.
+[Info  - 23:57:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:51] Indexing started.
+[Info  - 23:57:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:52] Indexing started.
+[Info  - 23:57:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:58] Indexing started.
+[Info  - 23:57:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:57:59] Indexing started.
+[Info  - 23:57:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:02] Indexing started.
+[Info  - 23:58:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:02] Indexing started.
+[Info  - 23:58:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:06] Indexing started.
+[Info  - 23:58:06] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:58:21] Indexing started.
+[Info  - 23:58:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:22] Indexing started.
+[Info  - 23:58:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:44] Indexing started.
+[Info  - 23:58:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:45] Indexing started.
+[Info  - 23:58:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:56] Indexing started.
+[Info  - 23:58:56] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:57] Indexing started.
+[Info  - 23:58:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:58:58] Indexing started.
+[Info  - 23:58:58] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:58:58] Indexing started.
+[Info  - 23:58:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:02] Indexing started.
+[Info  - 23:59:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:03] Indexing started.
+[Info  - 23:59:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:03] Indexing started.
+[Info  - 23:59:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:07] Indexing started.
+[Info  - 23:59:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:07] Indexing started.
+[Info  - 23:59:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:09] Indexing started.
+[Info  - 23:59:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:12] Indexing started.
+[Info  - 23:59:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:17] Indexing started.
+[Info  - 23:59:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:59:18] Indexing started.
+[Info  - 23:59:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:22] Indexing started.
+[Info  - 23:59:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:23] Indexing started.
+[Info  - 23:59:24] Indexing ended. 3 files indexed in 0s.
+[Info  - 23:59:24] Indexing started.
+[Info  - 23:59:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:24] Indexing started.
+[Info  - 23:59:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:26] Indexing started.
+[Info  - 23:59:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:27] Indexing started.
+[Info  - 23:59:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:44] Indexing started.
+[Info  - 23:59:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:59:45] Indexing started.
+[Info  - 23:59:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:46] Indexing started.
+[Info  - 23:59:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:47] Indexing started.
+[Info  - 23:59:47] Indexing ended. 2 files indexed in 0s.
+[Info  - 23:59:47] Indexing started.
+[Info  - 23:59:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 23:59:53] Indexing started.
+[Info  - 23:59:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:02] Indexing started.
+[Info  - 00:00:02] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:02] Indexing started.
+[Info  - 00:00:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:03] Indexing started.
+[Info  - 00:00:04] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:04] Indexing started.
+[Info  - 00:00:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:05] Indexing started.
+[Info  - 00:00:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:09] Indexing started.
+[Info  - 00:00:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:11] Indexing started.
+[Info  - 00:00:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:12] Indexing started.
+[Info  - 00:00:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:12] Indexing started.
+[Info  - 00:00:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:15] Indexing started.
+[Info  - 00:00:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:15] Indexing started.
+[Info  - 00:00:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:21] Indexing started.
+[Info  - 00:00:21] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:21] Indexing started.
+[Info  - 00:00:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:24] Indexing started.
+[Info  - 00:00:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:35] Indexing started.
+[Info  - 00:00:35] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:35] Indexing started.
+[Info  - 00:00:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:40] Indexing started.
+[Info  - 00:00:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:43] Indexing started.
+[Info  - 00:00:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:53] Indexing started.
+[Info  - 00:00:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:00:53] Indexing started.
+[Info  - 00:00:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:00:59] Indexing started.
+[Info  - 00:00:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:06] Indexing started.
+[Info  - 00:01:06] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:07] Indexing started.
+[Info  - 00:01:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:07] Indexing started.
+[Info  - 00:01:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:09] Indexing started.
+[Info  - 00:01:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:10] Indexing started.
+[Info  - 00:01:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:10] Indexing started.
+[Info  - 00:01:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:15] Indexing started.
+[Info  - 00:01:16] Indexing ended. 206 files indexed in 0s.
+[Info  - 00:01:16] Indexing started.
+[Info  - 00:01:17] Indexing ended. 208 files indexed in 0s.
+[Info  - 00:01:39] Indexing started.
+[Info  - 00:01:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:40] Indexing started.
+[Info  - 00:01:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:41] Indexing started.
+[Info  - 00:01:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:42] Indexing started.
+[Info  - 00:01:42] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:45] Indexing started.
+[Info  - 00:01:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:46] Indexing started.
+[Info  - 00:01:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:01:49] Indexing started.
+[Info  - 00:01:49] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:52] Indexing started.
+[Info  - 00:01:52] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:01:53] Indexing started.
+[Info  - 00:01:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:02:00] Indexing started.
+[Info  - 00:02:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:02:01] Indexing started.
+[Info  - 00:02:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:02:40] Indexing started.
+[Info  - 00:02:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:02:41] Indexing started.
+[Info  - 00:02:41] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:02:50] Indexing started.
+[Info  - 00:02:50] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:02:51] Indexing started.
+[Info  - 00:02:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:02:59] Indexing started.
+[Info  - 00:02:59] Indexing ended. 3 files indexed in 0s.
+[Info  - 00:03:11] Indexing started.
+[Info  - 00:03:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:03:19] Indexing started.
+[Info  - 00:03:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:03:19] Indexing started.
+[Info  - 00:03:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:02] Indexing started.
+[Info  - 00:04:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:03] Indexing started.
+[Info  - 00:04:03] Indexing ended. 1 files indexed in 0s.
+[Warn  - 00:04:17] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 00:04:17] Indexing started.
+[Info  - 00:04:17] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:04:18] Indexing started.
+[Info  - 00:04:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:24] Indexing started.
+[Info  - 00:04:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:35] Indexing started.
+[Info  - 00:04:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:50] Indexing started.
+[Info  - 00:04:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:51] Indexing started.
+[Info  - 00:04:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:04:54] Indexing started.
+[Info  - 00:04:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:05:05] Indexing started.
+[Info  - 00:05:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:05:08] Indexing started.
+[Info  - 00:05:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:05:11] Indexing started.
+[Info  - 00:05:11] Indexing ended. 1 files indexed in 0s.
+[Warn  - 00:05:23] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/36bdc94'
+[Info  - 00:05:23] Searching file:///var/www/html/InventoryProject/User/History/-63db318 for files to index.
+[Info  - 00:05:23] Indexing started.
+[Info  - 00:05:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:06:17] Indexing started.
+[Info  - 00:06:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:06:20] Indexing started.
+[Info  - 00:06:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:07:16] Indexing started.
+[Info  - 00:07:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:07:20] Indexing started.
+[Info  - 00:07:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:10:46] Searching file:///var/www/html/InventoryProject/User/History/57a77c9b for files to index.
+[Info  - 00:10:46] Indexing started.
+[Info  - 00:10:46] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:16:57] Indexing started.
+[Info  - 00:16:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:16:58] Indexing started.
+[Info  - 00:16:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:17:18] Indexing started.
+[Info  - 00:17:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:17:18] Indexing started.
+[Info  - 00:17:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:17:20] Indexing started.
+[Info  - 00:17:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:17:41] Searching file:///var/www/html/InventoryProject/User/History/4885885 for files to index.
+[Info  - 00:17:41] Indexing started.
+[Info  - 00:17:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:17:48] Indexing started.
+[Info  - 00:17:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:17:54] Indexing started.
+[Info  - 00:17:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:00] Indexing started.
+[Info  - 00:18:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:03] Indexing started.
+[Info  - 00:18:04] Indexing ended. 1 files indexed in 0s.
+[Warn  - 00:18:07] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 00:18:07] Indexing started.
+[Info  - 00:18:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:12] Indexing started.
+[Info  - 00:18:12] Indexing ended. 1 files indexed in 0s.
+[Warn  - 00:18:20] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 00:18:20] Indexing started.
+[Info  - 00:18:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:23] Indexing started.
+[Info  - 00:18:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:51] Indexing started.
+[Info  - 00:18:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:57] Indexing started.
+[Info  - 00:18:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:18:59] Indexing started.
+[Info  - 00:18:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:01] Indexing started.
+[Info  - 00:19:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:18] Indexing started.
+[Info  - 00:19:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:19] Indexing started.
+[Info  - 00:19:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:22] Indexing started.
+[Info  - 00:19:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:22] Indexing started.
+[Info  - 00:19:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:26] Indexing started.
+[Info  - 00:19:26] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:27] Indexing started.
+[Info  - 00:19:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:28] Indexing started.
+[Info  - 00:19:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:35] Indexing started.
+[Info  - 00:19:35] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:19:36] Indexing started.
+[Info  - 00:19:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:36] Indexing started.
+[Info  - 00:19:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:37] Indexing started.
+[Info  - 00:19:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:38] Indexing started.
+[Info  - 00:19:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:43] Indexing started.
+[Info  - 00:19:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:43] Indexing started.
+[Info  - 00:19:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:50] Indexing started.
+[Info  - 00:19:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:51] Indexing started.
+[Info  - 00:19:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:19:55] Indexing started.
+[Info  - 00:19:56] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:20:05] Indexing started.
+[Info  - 00:20:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:06] Indexing started.
+[Info  - 00:20:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:08] Indexing started.
+[Info  - 00:20:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:09] Indexing started.
+[Info  - 00:20:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:17] Indexing started.
+[Info  - 00:20:17] Indexing ended. 3 files indexed in 0s.
+[Info  - 00:20:23] Indexing started.
+[Info  - 00:20:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:24] Indexing started.
+[Info  - 00:20:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:25] Indexing started.
+[Info  - 00:20:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:26] Indexing started.
+[Info  - 00:20:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:20:30] Indexing started.
+[Info  - 00:20:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:31] Indexing started.
+[Info  - 00:20:31] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:20:39] Indexing started.
+[Info  - 00:20:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:40] Indexing started.
+[Info  - 00:20:41] Indexing ended. 212 files indexed in 0s.
+[Info  - 00:20:49] Indexing started.
+[Info  - 00:20:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:53] Indexing started.
+[Info  - 00:20:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:20:54] Indexing started.
+[Info  - 00:20:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:22:52] Indexing started.
+[Info  - 00:22:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:23:34] Indexing started.
+[Info  - 00:23:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:23:40] Indexing started.
+[Info  - 00:23:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:23:43] Indexing started.
+[Info  - 00:23:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:24:22] Indexing started.
+[Info  - 00:24:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:24:27] Indexing started.
+[Info  - 00:24:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:24:33] Indexing started.
+[Info  - 00:24:33] Indexing ended. 4 files indexed in 0s.
+[Info  - 00:24:46] Indexing started.
+[Info  - 00:24:47] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:25:17] Indexing started.
+[Info  - 00:25:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:25:38] Indexing started.
+[Info  - 00:25:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:26:44] Indexing started.
+[Info  - 00:26:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:26:45] Indexing started.
+[Info  - 00:26:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:26:46] Indexing started.
+[Info  - 00:26:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:26:47] Indexing started.
+[Info  - 00:26:47] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:22] Indexing started.
+[Info  - 00:27:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:23] Indexing started.
+[Info  - 00:27:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:24] Indexing started.
+[Info  - 00:27:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:24] Indexing started.
+[Info  - 00:27:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:58] Indexing started.
+[Info  - 00:27:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:27:59] Indexing started.
+[Info  - 00:28:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:28:00] Indexing started.
+[Info  - 00:28:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:28:00] Indexing started.
+[Info  - 00:28:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:28:06] Indexing started.
+[Info  - 00:28:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:28:52] Indexing started.
+[Info  - 00:28:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:28:56] Indexing started.
+[Info  - 00:28:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:29:02] Indexing started.
+[Info  - 00:29:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:29:07] Indexing started.
+[Info  - 00:29:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:29:13] Indexing started.
+[Info  - 00:29:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:29:15] Indexing started.
+[Info  - 00:29:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:30:12] Indexing started.
+[Info  - 00:30:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:30:13] Indexing started.
+[Info  - 00:30:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:30:23] Indexing started.
+[Info  - 00:30:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:30:25] Indexing started.
+[Info  - 00:30:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:30:36] Indexing started.
+[Info  - 00:30:36] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:31:21] Indexing started.
+[Info  - 00:31:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:31:28] Indexing started.
+[Info  - 00:31:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:49:25] Indexing started.
+[Info  - 00:49:25] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:49:30] Indexing started.
+[Info  - 00:49:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:49:31] Indexing started.
+[Info  - 00:49:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:49:38] Indexing started.
+[Info  - 00:49:38] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:49:39] Indexing started.
+[Info  - 00:49:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:49:55] Indexing started.
+[Info  - 00:49:55] Indexing ended. 167 files indexed in 0s.
+[Info  - 00:49:56] Indexing started.
+[Info  - 00:49:56] Indexing ended. 207 files indexed in 0s.
+[Warn  - 00:50:47] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 00:50:47] Searching file:///var/www/html/InventoryProject/User/History/438ca339 for files to index.
+[Info  - 00:50:47] Indexing started.
+[Info  - 00:50:48] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:50:59] Indexing started.
+[Info  - 00:50:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:00] Indexing started.
+[Info  - 00:51:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:05] Indexing started.
+[Info  - 00:51:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:51:06] Indexing started.
+[Info  - 00:51:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:07] Indexing started.
+[Info  - 00:51:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:51:08] Indexing started.
+[Info  - 00:51:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:12] Indexing started.
+[Info  - 00:51:12] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:51:13] Indexing started.
+[Info  - 00:51:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:20] Indexing started.
+[Info  - 00:51:21] Indexing ended. 3 files indexed in 0s.
+[Warn  - 00:51:30] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 00:51:30] Indexing started.
+[Info  - 00:51:30] Indexing ended. 3 files indexed in 0s.
+[Info  - 00:51:34] Indexing started.
+[Info  - 00:51:34] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:51:35] Indexing started.
+[Info  - 00:51:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:51:44] Indexing started.
+[Info  - 00:51:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:00] Indexing started.
+[Info  - 00:52:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:09] Indexing started.
+[Info  - 00:52:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:11] Indexing started.
+[Info  - 00:52:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:12] Indexing started.
+[Info  - 00:52:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:18] Indexing started.
+[Info  - 00:52:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:52:24] Indexing started.
+[Info  - 00:52:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:54:12] Indexing started.
+[Info  - 00:54:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:54:13] Indexing started.
+[Info  - 00:54:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:54:30] Indexing started.
+[Info  - 00:54:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:54:39] Indexing started.
+[Info  - 00:54:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:54:56] Indexing started.
+[Info  - 00:54:56] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:56:11] Indexing started.
+[Info  - 00:56:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:56:21] Indexing started.
+[Info  - 00:56:21] Indexing ended. 195 files indexed in 0s.
+[Info  - 00:56:21] Indexing started.
+[Info  - 00:56:22] Indexing ended. 206 files indexed in 0s.
+[Info  - 00:56:24] Indexing started.
+[Info  - 00:56:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:56:59] Indexing started.
+[Info  - 00:57:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 00:57:07] Indexing started.
+[Info  - 00:57:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:57:20] Indexing started.
+[Info  - 00:57:20] Indexing ended. 1 files indexed in 0s.
+[Warn  - 00:58:57] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 00:58:58] Indexing started.
+[Info  - 00:58:58] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:59:52] Indexing started.
+[Info  - 00:59:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 00:59:57] Indexing started.
+[Info  - 00:59:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:00:00] Indexing started.
+[Info  - 01:00:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:00:39] Indexing started.
+[Info  - 01:00:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:00:49] Searching file:///var/www/html/InventoryProject/storage/framework/cache/data/a3 for files to index.
+[Info  - 01:00:49] Searching file:///var/www/html/InventoryProject/storage/framework/cache/data/41 for files to index.
+[Warn  - 01:02:03] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Info  - 01:02:04] Searching file:///var/www/html/InventoryProject/User/History/-78e5dbcf for files to index.
+[Info  - 01:02:04] Indexing started.
+[Info  - 01:02:04] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:02:13] Searching file:///var/www/html/InventoryProject/User/History/-705fccd1 for files to index.
+[Info  - 01:02:13] Indexing started.
+[Info  - 01:02:13] Indexing ended. 3 files indexed in 0s.
+[Info  - 01:02:18] Indexing started.
+[Info  - 01:02:19] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:02:38] Indexing started.
+[Info  - 01:02:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:02:51] Indexing started.
+[Info  - 01:02:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:02:57] Indexing started.
+[Info  - 01:02:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:21] Indexing started.
+[Info  - 01:03:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:25] Indexing started.
+[Info  - 01:03:26] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:26] Indexing started.
+[Info  - 01:03:26] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:30] Indexing started.
+[Info  - 01:03:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:37] Indexing started.
+[Info  - 01:03:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:39] Indexing started.
+[Info  - 01:03:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:43] Indexing started.
+[Info  - 01:03:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:45] Indexing started.
+[Info  - 01:03:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:52] Indexing started.
+[Info  - 01:03:52] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:03:55] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 01:03:55] Indexing started.
+[Info  - 01:03:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:03:59] Indexing started.
+[Info  - 01:03:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:03] Indexing started.
+[Info  - 01:04:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:06] Indexing started.
+[Info  - 01:04:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:20] Indexing started.
+[Info  - 01:04:20] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:29] Indexing started.
+[Info  - 01:04:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:31] Indexing started.
+[Info  - 01:04:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:04:57] Indexing started.
+[Info  - 01:04:57] Indexing ended. 4 files indexed in 0s.
+[Info  - 01:04:58] Indexing started.
+[Info  - 01:04:58] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:04] Indexing started.
+[Info  - 01:05:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:05:10] Indexing started.
+[Info  - 01:05:10] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:13] Indexing started.
+[Info  - 01:05:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:14] Indexing started.
+[Info  - 01:05:14] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:19] Indexing started.
+[Info  - 01:05:19] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:20] Indexing started.
+[Info  - 01:05:21] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:27] Indexing started.
+[Info  - 01:05:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:28] Indexing started.
+[Info  - 01:05:28] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:32] Indexing started.
+[Info  - 01:05:33] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:37] Indexing started.
+[Info  - 01:05:37] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:05:45] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.iIcWAM'
+[Info  - 01:05:51] Indexing started.
+[Info  - 01:05:51] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:05:54] Indexing started.
+[Info  - 01:05:55] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:00] Indexing started.
+[Info  - 01:06:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:01] Indexing started.
+[Info  - 01:06:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:06:09] Searching file:///var/www/html/InventoryProject/User/History/1f4d2f18 for files to index.
+[Info  - 01:06:09] Indexing started.
+[Info  - 01:06:10] Indexing ended. 3 files indexed in 0s.
+[Info  - 01:06:17] Indexing started.
+[Info  - 01:06:17] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:29] Indexing started.
+[Info  - 01:06:30] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:39] Indexing started.
+[Info  - 01:06:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:44] Indexing started.
+[Info  - 01:06:44] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:06:48] Indexing started.
+[Info  - 01:06:49] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:05] Indexing started.
+[Info  - 01:07:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:10] Indexing started.
+[Info  - 01:07:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:16] Indexing started.
+[Info  - 01:07:16] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:21] Indexing started.
+[Info  - 01:07:21] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:29] Searching file:///var/www/html/InventoryProject/User/History/-4bce1e27 for files to index.
+[Info  - 01:07:29] Indexing started.
+[Info  - 01:07:30] Indexing ended. 11 files indexed in 0s.
+[Info  - 01:07:30] Searching file:///var/www/html/InventoryProject/User/History/4916949a for files to index.
+[Info  - 01:07:30] Indexing started.
+[Info  - 01:07:31] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:07:36] Indexing started.
+[Info  - 01:07:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:07:43] Indexing started.
+[Info  - 01:07:43] Indexing ended. 5 files indexed in 0s.
+[Info  - 01:07:50] Indexing started.
+[Info  - 01:07:50] Indexing ended. 8 files indexed in 0s.
+[Info  - 01:07:55] Indexing started.
+[Info  - 01:07:55] Indexing ended. 2 files indexed in 0s.
+[Warn  - 01:08:02] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.97H6QH'
+[Info  - 01:08:13] Indexing started.
+[Info  - 01:08:13] Indexing ended. 3 files indexed in 0s.
+[Info  - 01:08:48] Searching file:///var/www/html/InventoryProject/User/History/6f89f6f5 for files to index.
+[Info  - 01:08:48] Indexing started.
+[Info  - 01:08:48] Indexing ended. 4 files indexed in 0s.
+[Info  - 01:08:54] Indexing started.
+[Info  - 01:08:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:09:27] Indexing started.
+[Info  - 01:09:27] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:09:29] Indexing started.
+[Info  - 01:09:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:09:59] Indexing started.
+[Info  - 01:10:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:10:04] Indexing started.
+[Info  - 01:10:04] Indexing ended. 196 files indexed in 0s.
+[Info  - 01:10:05] Indexing started.
+[Info  - 01:10:05] Indexing ended. 207 files indexed in 0s.
+[Info  - 01:10:18] Searching file:///var/www/html/InventoryProject/User/History/-339d36cf for files to index.
+[Info  - 01:10:18] Indexing started.
+[Info  - 01:10:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:10:19] Indexing started.
+[Info  - 01:10:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:10:26] Indexing started.
+[Info  - 01:10:26] Indexing ended. 182 files indexed in 0s.
+[Info  - 01:10:26] Indexing started.
+[Info  - 01:10:27] Indexing ended. 208 files indexed in 0s.
+[Info  - 01:10:32] Indexing started.
+[Info  - 01:10:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:10:40] Searching file:///var/www/html/InventoryProject/User/History/47d85c6a for files to index.
+[Info  - 01:10:40] Indexing started.
+[Info  - 01:10:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:10:43] Indexing started.
+[Info  - 01:10:43] Indexing ended. 187 files indexed in 0s.
+[Info  - 01:10:44] Indexing started.
+[Info  - 01:10:44] Indexing ended. 208 files indexed in 0s.
+[Info  - 01:11:37] Searching file:///var/www/html/InventoryProject/User/History/71e6ea25 for files to index.
+[Info  - 01:11:37] Indexing started.
+[Info  - 01:11:37] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:11:38] Indexing started.
+[Info  - 01:11:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:12:59] Indexing started.
+[Info  - 01:12:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:13:00] Indexing started.
+[Info  - 01:13:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:13:02] Indexing started.
+[Info  - 01:13:03] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:13:03] Indexing started.
+[Info  - 01:13:04] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:13:12] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.kukw2e'
+[Info  - 01:13:25] Indexing started.
+[Info  - 01:13:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:14:20] Searching file:///var/www/html/InventoryProject/User/History/-324bdb6a for files to index.
+[Warn  - 01:17:09] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:17:09] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:17:10] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Info  - 01:17:29] Indexing started.
+[Info  - 01:17:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:17:40] Indexing started.
+[Info  - 01:17:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:19:06] Indexing started.
+[Info  - 01:19:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:19:14] Indexing started.
+[Info  - 01:19:14] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:19:33] Indexing started.
+[Info  - 01:19:33] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:19:46] Indexing started.
+[Info  - 01:19:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:19:50] Indexing started.
+[Info  - 01:19:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:20:17] Indexing started.
+[Info  - 01:20:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:20:29] Indexing started.
+[Info  - 01:20:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:20:36] Indexing started.
+[Info  - 01:20:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:20:46] Indexing started.
+[Info  - 01:20:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:21:08] Indexing started.
+[Info  - 01:21:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:21:18] Indexing started.
+[Info  - 01:21:18] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:22:03] Indexing started.
+[Info  - 01:22:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:22:07] Indexing started.
+[Info  - 01:22:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:22:49] Indexing started.
+[Info  - 01:22:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:22:56] Indexing started.
+[Info  - 01:22:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:22:59] Indexing started.
+[Info  - 01:22:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:23:15] Indexing started.
+[Info  - 01:23:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:23:24] Indexing started.
+[Info  - 01:23:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:23:29] Indexing started.
+[Info  - 01:23:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:23:44] Indexing started.
+[Info  - 01:23:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:23:48] Indexing started.
+[Info  - 01:23:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:24:08] Indexing started.
+[Info  - 01:24:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:24:10] Indexing started.
+[Info  - 01:24:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:24:13] Indexing started.
+[Info  - 01:24:14] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:24:22] Indexing started.
+[Info  - 01:24:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:24:26] Indexing started.
+[Info  - 01:24:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:25:24] Indexing started.
+[Info  - 01:25:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:25:28] Indexing started.
+[Info  - 01:25:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:25:39] Indexing started.
+[Info  - 01:25:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:25:44] Indexing started.
+[Info  - 01:25:44] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:25:46] Indexing started.
+[Info  - 01:25:46] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:25:52] Indexing started.
+[Info  - 01:25:52] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:25:53] Indexing started.
+[Info  - 01:25:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:26:03] Indexing started.
+[Info  - 01:26:04] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:26:04] Indexing started.
+[Info  - 01:26:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:27:32] Searching file:///var/www/html/InventoryProject/logs/20240911T225357/window1/exthost/vscode.typescript-language-features for files to index.
+[Info  - 01:27:50] Searching file:///var/www/html/InventoryProject/public/build/assets for files to index.
+[Info  - 01:28:04] Indexing started.
+[Info  - 01:28:04] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:28:36] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:28:36] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:28:41] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:28:41] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:28:52] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:28:52] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:28:56] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:28:56] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:28:59] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:28:59] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 01:32:46] Searching file:///var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/untitled for files to index.
+[Info  - 01:32:52] Searching file:///var/www/html/InventoryProject/User/History/f0b8b17 for files to index.
+[Info  - 01:34:20] Indexing started.
+[Info  - 01:34:20] Indexing ended. 182 files indexed in 0s.
+[Info  - 01:34:21] Indexing started.
+[Info  - 01:34:21] Indexing ended. 209 files indexed in 0s.
+[Warn  - 01:34:47] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:34:47] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 01:34:51] Searching file:///var/www/html/InventoryProject/User/History/2edfd492 for files to index.
+[Info  - 01:34:51] Indexing started.
+[Info  - 01:34:51] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:34:55] Indexing started.
+[Info  - 01:34:55] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:35:04] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.ck5NBb'
+[Info  - 01:35:04] Indexing started.
+[Info  - 01:35:04] Indexing ended. 191 files indexed in 0s.
+[Info  - 01:35:04] Indexing started.
+[Info  - 01:35:05] Indexing ended. 243 files indexed in 0s.
+[Info  - 01:37:36] Searching file:///var/www/html/InventoryProject/User/History/12981d3c for files to index.
+[Info  - 01:37:36] Indexing started.
+[Info  - 01:37:36] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:37:37] Indexing started.
+[Info  - 01:37:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:37:55] Indexing started.
+[Info  - 01:37:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:37:55] Indexing started.
+[Info  - 01:37:56] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:38:01] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 01:38:01] Indexing started.
+[Info  - 01:38:01] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:38:02] Indexing started.
+[Info  - 01:38:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:38:23] Searching file:///var/www/html/InventoryProject/resources/views/components/layouts for files to index.
+[Info  - 01:38:39] Searching file:///var/www/html/InventoryProject/User/History/-3ef13577 for files to index.
+[Info  - 01:38:39] Indexing started.
+[Info  - 01:38:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:41:05] Searching file:///var/www/html/InventoryProject/User/History/4549a220 for files to index.
+[Info  - 01:41:05] Indexing started.
+[Info  - 01:41:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:41:07] Indexing started.
+[Info  - 01:41:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:41:11] Indexing started.
+[Info  - 01:41:11] Indexing ended. 220 files indexed in 0s.
+[Info  - 01:41:11] Indexing started.
+[Info  - 01:41:12] Indexing ended. 244 files indexed in 0s.
+[Warn  - 01:41:56] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:42:26] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:43:19] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:43:19] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 01:43:32] Indexing started.
+[Info  - 01:43:32] Indexing ended. 6 files indexed in 0s.
+[Info  - 01:43:47] Searching file:///var/www/html/InventoryProject/User/History/184545ee for files to index.
+[Info  - 01:43:51] Indexing started.
+[Info  - 01:43:52] Indexing ended. 153 files indexed in 0s.
+[Info  - 01:43:52] Indexing started.
+[Info  - 01:43:53] Indexing ended. 244 files indexed in 0s.
+[Warn  - 01:44:10] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:44:38] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:44:38] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Warn  - 01:44:39] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 01:44:39] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 01:45:13] Indexing started.
+[Info  - 01:45:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:45:37] Indexing started.
+[Info  - 01:45:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:50:03] Searching file:///var/www/html/InventoryProject/User/History/-31d0158d for files to index.
+[Info  - 01:50:03] Indexing started.
+[Info  - 01:50:03] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:50:44] Indexing started.
+[Info  - 01:50:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:50:57] Indexing started.
+[Info  - 01:50:57] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:51:06] Indexing started.
+[Info  - 01:51:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:51:31] Indexing started.
+[Info  - 01:51:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:51:31] Indexing started.
+[Info  - 01:51:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:51:36] Indexing started.
+[Info  - 01:51:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:51:37] Indexing started.
+[Info  - 01:51:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:51:40] Indexing started.
+[Info  - 01:51:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:53:15] Indexing started.
+[Info  - 01:53:16] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:53:21] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Info  - 01:53:29] Indexing started.
+[Info  - 01:53:30] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:54:23] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 01:54:23] Indexing started.
+[Info  - 01:54:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:54:23] Indexing started.
+[Info  - 01:54:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:54:25] Indexing started.
+[Info  - 01:54:25] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:54:25] Indexing started.
+[Info  - 01:54:26] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:54:34] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/3f353a6a'
+[Info  - 01:54:34] Indexing started.
+[Info  - 01:54:34] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:54:36] Indexing started.
+[Info  - 01:54:36] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:54:48] Indexing started.
+[Info  - 01:54:49] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:54:52] Indexing started.
+[Info  - 01:54:52] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:54:55] Indexing started.
+[Info  - 01:54:55] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:54:56] Indexing started.
+[Info  - 01:54:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:55:27] Indexing started.
+[Info  - 01:55:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:55:34] Indexing started.
+[Info  - 01:55:34] Indexing ended. 177 files indexed in 0s.
+[Info  - 01:55:34] Indexing started.
+[Info  - 01:55:35] Indexing ended. 247 files indexed in 0s.
+[Info  - 01:56:00] Indexing started.
+[Info  - 01:56:00] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:56:04] Indexing started.
+[Info  - 01:56:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:56:07] Indexing started.
+[Info  - 01:56:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:56:33] Indexing started.
+[Info  - 01:56:33] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:56:35] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/743055ee'
+[Info  - 01:56:47] Indexing started.
+[Info  - 01:56:47] Indexing ended. 1 files indexed in 0s.
+[Warn  - 01:57:00] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/109fc07b'
+[Info  - 01:57:00] Searching file:///var/www/html/InventoryProject/User/History/403de1a7 for files to index.
+[Info  - 01:57:00] Indexing started.
+[Info  - 01:57:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 01:59:01] Indexing started.
+[Info  - 01:59:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:59:19] Indexing started.
+[Info  - 01:59:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:59:27] Indexing started.
+[Info  - 01:59:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:59:30] Indexing started.
+[Info  - 01:59:30] Indexing ended. 1 files indexed in 0s.
+[Info  - 01:59:38] Indexing started.
+[Info  - 01:59:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:01:07] Indexing started.
+[Info  - 02:01:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:01:10] Indexing started.
+[Info  - 02:01:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:01:13] Indexing started.
+[Info  - 02:01:13] Indexing ended. 142 files indexed in 0s.
+[Info  - 02:01:13] Indexing started.
+[Info  - 02:01:14] Indexing ended. 247 files indexed in 0s.
+[Info  - 02:01:49] Indexing started.
+[Info  - 02:01:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:01:50] Indexing started.
+[Info  - 02:01:50] Indexing ended. 250 files indexed in 0s.
+[Info  - 02:03:29] Indexing started.
+[Info  - 02:03:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:03:34] Indexing started.
+[Info  - 02:03:34] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:05:22] Indexing started.
+[Info  - 02:05:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:05:45] Indexing started.
+[Info  - 02:05:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:05:50] Indexing started.
+[Info  - 02:05:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:05:51] Indexing started.
+[Info  - 02:05:51] Indexing ended. 250 files indexed in 0s.
+[Info  - 02:06:37] Indexing started.
+[Info  - 02:06:37] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:06:59] Indexing started.
+[Info  - 02:06:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:07:55] Indexing started.
+[Info  - 02:07:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:07:57] Indexing started.
+[Info  - 02:07:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:08:12] Indexing started.
+[Info  - 02:08:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:08:25] Indexing started.
+[Info  - 02:08:26] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:08:35] Indexing started.
+[Info  - 02:08:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:08:43] Indexing started.
+[Info  - 02:08:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:08:56] Indexing started.
+[Info  - 02:08:56] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:09:56] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:09:56] Indexing started.
+[Info  - 02:09:56] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:10:01] Indexing started.
+[Info  - 02:10:02] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:10:05] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:10:05] Indexing started.
+[Info  - 02:10:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:10:06] Indexing started.
+[Info  - 02:10:07] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:10:10] Indexing started.
+[Info  - 02:10:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:10:46] Indexing started.
+[Info  - 02:10:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:10:55] Indexing started.
+[Info  - 02:10:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:14:38] Indexing started.
+[Info  - 02:14:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:14:39] Indexing started.
+[Info  - 02:14:39] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:14:45] Indexing started.
+[Info  - 02:14:45] Indexing ended. 10 files indexed in 0s.
+[Info  - 02:14:57] Indexing started.
+[Info  - 02:14:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:15:23] Indexing started.
+[Info  - 02:15:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:15:24] Indexing started.
+[Info  - 02:15:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:16:50] Indexing started.
+[Info  - 02:16:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:16:51] Indexing started.
+[Info  - 02:16:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:16:54] Indexing started.
+[Info  - 02:16:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:17:16] Indexing started.
+[Info  - 02:17:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:17:51] Searching file:///var/www/html/InventoryProject/User/History/207b27db for files to index.
+[Info  - 02:17:51] Indexing started.
+[Info  - 02:17:51] Indexing ended. 3 files indexed in 0s.
+[Info  - 02:18:01] Indexing started.
+[Info  - 02:18:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:18:02] Searching file:///var/www/html/InventoryProject/User/History/-731fb0f4 for files to index.
+[Info  - 02:18:02] Indexing started.
+[Info  - 02:18:03] Indexing ended. 2 files indexed in 0s.
+[Warn  - 02:18:31] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 02:18:33] Indexing started.
+[Info  - 02:18:33] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:19:09] Searching file:///var/www/html/InventoryProject/resources/views/components/supplier for files to index.
+[Info  - 02:19:27] Searching file:///var/www/html/InventoryProject/resources/views/components/product for files to index.
+[Info  - 02:19:38] Searching file:///var/www/html/InventoryProject/resources/views/components/warehouse for files to index.
+[Warn  - 02:22:25] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:22:25] Searching file:///var/www/html/InventoryProject/User/History/48c0cede for files to index.
+[Info  - 02:22:25] Indexing started.
+[Info  - 02:22:25] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:23:03] Searching file:///var/www/html/InventoryProject/User/History/75c4767e for files to index.
+[Info  - 02:23:03] Indexing started.
+[Info  - 02:23:03] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:23:24] Searching file:///var/www/html/InventoryProject/User/History/15fedb9 for files to index.
+[Info  - 02:23:24] Indexing started.
+[Info  - 02:23:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:23:28] Searching file:///var/www/html/InventoryProject/User/History/47a5024d for files to index.
+[Info  - 02:23:28] Indexing started.
+[Info  - 02:23:28] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:23:56] Indexing started.
+[Info  - 02:23:56] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:24:06] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:24:06] Searching file:///var/www/html/InventoryProject/User/History/50fc7ebf for files to index.
+[Info  - 02:24:06] Indexing started.
+[Info  - 02:24:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:24:10] Indexing started.
+[Info  - 02:24:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:24:22] Searching file:///var/www/html/InventoryProject/User/History/5c6827e7 for files to index.
+[Info  - 02:24:22] Indexing started.
+[Info  - 02:24:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:24:25] Indexing started.
+[Info  - 02:24:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:24:34] Indexing started.
+[Info  - 02:24:34] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:24:53] Searching file:///var/www/html/InventoryProject/User/History/-6c37d57c for files to index.
+[Info  - 02:24:53] Indexing started.
+[Info  - 02:24:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:25:17] Indexing started.
+[Info  - 02:25:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:25:34] Indexing started.
+[Info  - 02:25:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:09] Indexing started.
+[Info  - 02:26:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:12] Indexing started.
+[Info  - 02:26:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:15] Indexing started.
+[Info  - 02:26:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:19] Indexing started.
+[Info  - 02:26:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:23] Indexing started.
+[Info  - 02:26:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:26:28] Indexing started.
+[Info  - 02:26:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:27:42] Indexing started.
+[Info  - 02:27:42] Indexing ended. 4 files indexed in 0s.
+[Warn  - 02:27:49] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/5d422de0'
+[Info  - 02:27:49] Indexing started.
+[Info  - 02:27:49] Indexing ended. 7 files indexed in 0s.
+[Info  - 02:27:55] Indexing started.
+[Info  - 02:27:55] Indexing ended. 4 files indexed in 0s.
+[Info  - 02:27:57] Indexing started.
+[Info  - 02:27:57] Indexing ended. 6 files indexed in 0s.
+[Info  - 02:27:58] Indexing started.
+[Info  - 02:27:58] Indexing ended. 4 files indexed in 0s.
+[Info  - 02:28:01] Indexing started.
+[Info  - 02:28:01] Indexing ended. 11 files indexed in 0s.
+[Info  - 02:28:11] Indexing started.
+[Info  - 02:28:11] Indexing ended. 3 files indexed in 0s.
+[Info  - 02:28:13] Indexing started.
+[Info  - 02:28:13] Indexing ended. 6 files indexed in 0s.
+[Info  - 02:28:25] Indexing started.
+[Info  - 02:28:25] Indexing ended. 8 files indexed in 0s.
+[Info  - 02:28:29] Indexing started.
+[Info  - 02:28:30] Indexing ended. 3 files indexed in 0s.
+[Info  - 02:28:33] Indexing started.
+[Info  - 02:28:33] Indexing ended. 9 files indexed in 0s.
+[Info  - 02:29:41] Indexing started.
+[Info  - 02:29:41] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:01] Indexing started.
+[Info  - 02:30:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:02] Indexing started.
+[Info  - 02:30:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:08] Indexing started.
+[Info  - 02:30:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:09] Indexing started.
+[Info  - 02:30:09] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:15] Indexing started.
+[Info  - 02:30:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:17] Indexing started.
+[Info  - 02:30:17] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:31] Indexing started.
+[Info  - 02:30:31] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:30:52] Indexing started.
+[Info  - 02:30:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:30:53] Indexing started.
+[Info  - 02:30:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:31:14] Indexing started.
+[Info  - 02:31:14] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:31:30] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:31:30] Indexing started.
+[Info  - 02:31:30] Indexing ended. 7 files indexed in 0s.
+[Info  - 02:31:35] Indexing started.
+[Info  - 02:31:35] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:31:43] Indexing started.
+[Info  - 02:31:43] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:31:46] Indexing started.
+[Info  - 02:31:46] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:31:52] Indexing started.
+[Info  - 02:31:52] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:31:56] Indexing started.
+[Info  - 02:31:56] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:33:13] Searching file:///var/www/html/InventoryProject/User/History/485d0426 for files to index.
+[Info  - 02:33:13] Indexing started.
+[Info  - 02:33:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:33:27] Indexing started.
+[Info  - 02:33:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:35] Indexing started.
+[Info  - 02:33:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:40] Indexing started.
+[Info  - 02:33:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:43] Indexing started.
+[Info  - 02:33:43] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:45] Indexing started.
+[Info  - 02:33:45] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:49] Indexing started.
+[Info  - 02:33:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:33:55] Indexing started.
+[Info  - 02:33:55] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:34:02] Indexing started.
+[Info  - 02:34:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:34:10] Indexing started.
+[Info  - 02:34:10] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:34:16] Indexing started.
+[Info  - 02:34:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:34:22] Indexing started.
+[Info  - 02:34:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:37:52] Indexing started.
+[Info  - 02:37:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:37:55] Indexing started.
+[Info  - 02:37:56] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:38:14] Searching file:///var/www/html/InventoryProject/User/History/-80dfcc3 for files to index.
+[Info  - 02:38:14] Indexing started.
+[Info  - 02:38:15] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:38:16] Indexing started.
+[Info  - 02:38:16] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:38:23] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:38:23] Indexing started.
+[Info  - 02:38:23] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:38:32] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:38:32] Indexing started.
+[Info  - 02:38:32] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:38:48] Indexing started.
+[Info  - 02:38:48] Indexing ended. 5 files indexed in 0s.
+[Info  - 02:39:02] Indexing started.
+[Info  - 02:39:02] Indexing ended. 6 files indexed in 0s.
+[Warn  - 02:39:07] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:39:07] Indexing started.
+[Info  - 02:39:07] Indexing ended. 9 files indexed in 0s.
+[Info  - 02:39:18] Indexing started.
+[Info  - 02:39:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:39:26] Indexing started.
+[Info  - 02:39:26] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:40:48] Indexing started.
+[Info  - 02:40:48] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:41:21] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/state.vscdb-journal'
+[Warn  - 02:41:21] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 02:41:36] Indexing started.
+[Info  - 02:41:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:41:42] Indexing started.
+[Info  - 02:41:42] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:41:47] Indexing started.
+[Info  - 02:41:47] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:41:50] Indexing started.
+[Info  - 02:41:50] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:41:53] Indexing started.
+[Info  - 02:41:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:42:00] Indexing started.
+[Info  - 02:42:01] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:42:06] Indexing started.
+[Info  - 02:42:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:42:24] Searching file:///var/www/html/InventoryProject/User/History/3676bafb for files to index.
+[Info  - 02:42:24] Indexing started.
+[Info  - 02:42:24] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:42:42] Indexing started.
+[Info  - 02:42:42] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:42:44] Indexing started.
+[Info  - 02:42:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:42:58] Indexing started.
+[Info  - 02:42:58] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:43:03] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/.org.chromium.Chromium.lR1avW'
+[Warn  - 02:43:05] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/573622cc'
+[Info  - 02:43:11] Indexing started.
+[Info  - 02:43:11] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:43:12] Indexing started.
+[Info  - 02:43:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:44:06] Indexing started.
+[Info  - 02:44:07] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:44:16] Indexing started.
+[Info  - 02:44:16] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:44:20] Indexing started.
+[Info  - 02:44:20] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:44:39] Indexing started.
+[Info  - 02:44:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:44:52] Indexing started.
+[Info  - 02:44:53] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:02] Indexing started.
+[Info  - 02:45:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:08] Indexing started.
+[Info  - 02:45:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:14] Indexing started.
+[Info  - 02:45:14] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:19] Indexing started.
+[Info  - 02:45:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:31] Indexing started.
+[Info  - 02:45:31] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:36] Indexing started.
+[Info  - 02:45:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:45:39] Indexing started.
+[Info  - 02:45:39] Indexing ended. 2 files indexed in 0s.
+[Warn  - 02:45:49] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:45:49] Indexing started.
+[Info  - 02:45:49] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:46:01] Indexing started.
+[Info  - 02:46:02] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:46:27] Indexing started.
+[Info  - 02:46:27] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:46:32] Indexing started.
+[Info  - 02:46:33] Indexing ended. 1 files indexed in 0s.
+[Warn  - 02:46:40] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/Backups/7604182db4a7555afcaea96e7a7aa652/file/-24932348'
+[Info  - 02:46:40] Indexing started.
+[Info  - 02:46:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:46:48] Indexing started.
+[Info  - 02:46:48] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:46:54] Indexing started.
+[Info  - 02:46:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:46:57] Indexing started.
+[Info  - 02:46:57] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:47:04] Indexing started.
+[Info  - 02:47:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:47:28] Indexing started.
+[Info  - 02:47:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:47:33] Indexing started.
+[Info  - 02:47:33] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:47:36] Indexing started.
+[Info  - 02:47:36] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:48:22] Indexing started.
+[Info  - 02:48:22] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:48:42] Indexing started.
+[Info  - 02:48:42] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:49:52] Indexing started.
+[Info  - 02:49:52] Searching file:///var/www/html/InventoryProject/User/History/2783e247 for files to index.
+[Info  - 02:49:52] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:49:54] Indexing started.
+[Info  - 02:49:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:51:15] Indexing started.
+[Info  - 02:51:15] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:51:18] Searching file:///var/www/html/InventoryProject/User/History/760cdc91 for files to index.
+[Info  - 02:51:18] Indexing started.
+[Info  - 02:51:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:52:59] Indexing started.
+[Info  - 02:52:59] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:53:00] Indexing started.
+[Info  - 02:53:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:55:57] Searching file:///var/www/html/InventoryProject/User/History/-75940776 for files to index.
+[Info  - 02:55:57] Indexing started.
+[Info  - 02:55:57] Indexing ended. 2 files indexed in 0s.
+[Warn  - 02:56:04] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/globalStorage/storage.json.vsctmp'
+[Info  - 02:56:04] Indexing started.
+[Info  - 02:56:04] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:56:05] Indexing started.
+[Info  - 02:56:05] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:56:14] Indexing started.
+[Info  - 02:56:14] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:56:19] Indexing started.
+[Info  - 02:56:19] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:56:22] Indexing started.
+[Info  - 02:56:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:56:23] Indexing started.
+[Info  - 02:56:23] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:58:06] Indexing started.
+[Info  - 02:58:06] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:58:11] Indexing started.
+[Info  - 02:58:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:58:14] Searching file:///var/www/html/InventoryProject/User/History/69fcc6d3 for files to index.
+[Info  - 02:58:14] Indexing started.
+[Info  - 02:58:15] Indexing ended. 2 files indexed in 0s.
+[Info  - 02:58:15] Indexing started.
+[Info  - 02:58:16] Indexing ended. 1 files indexed in 0s.
+[Info  - 02:58:21] Indexing started.
+[Info  - 02:58:21] Indexing ended. 1 files indexed in 0s.
+[Info  - 03:02:35] Indexing started.
+[Info  - 03:02:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 03:03:02] Indexing started.
+[Info  - 03:03:02] Indexing ended. 1 files indexed in 0s.
+[Info  - 03:24:58] Indexing started.
+[Info  - 03:24:58] Indexing ended. 429 files indexed in 0s.
+[Warn  - 03:25:03] Error: ENOENT: no such file or directory, stat '/var/www/html/InventoryProject/User/workspaceStorage/245cfb84e202c1fe3035aec9b416ab3e/state.vscdb-journal'
+[Info  - 03:25:07] Searching file:///var/www/html/InventoryProject/User/History/-2a910e42 for files to index.
